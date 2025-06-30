@@ -4,4 +4,4 @@
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wona-owo&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wona-owo&layout=compact&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wona-owo&layout=compact&theme=catppuccin_latte)
